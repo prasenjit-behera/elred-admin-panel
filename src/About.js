@@ -324,7 +324,7 @@ const About = () => {
                           +91 8511591750 / 8000058214
                         </p>
                       </div>
-                    </div>
+                    </div> 
                   </div>
           
           </Modal.Body>
