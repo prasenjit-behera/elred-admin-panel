@@ -61,7 +61,7 @@ const About = () => {
                     <div className="card-body">
                       <div className="d-full-width">
                         <h6 className="float-left card-title">
-                          <img src="/images/contact.png" alt="contact"></img>
+                          <img src="images/contact.png" alt="contact"></img>
                           <span className="ml-2">Contact</span>
                         </h6>
                         <div className="float-right edit-icon">
@@ -95,7 +95,7 @@ const About = () => {
                     <div className="card-body">
                       <div className="d-full-width">
                         <h6 className="float-left card-title">
-                          <img src="/images/address.png" alt="address"></img>
+                          <img src="images/address.png" alt="address"></img>
                           <span className="ml-2">Address</span>
                         </h6>
                         <div className="float-right edit-icon">
@@ -119,7 +119,7 @@ const About = () => {
                       <div className="d-full-width">
                         <h6 className="float-left card-title">
                           <img
-                            src="/images/hour-operation.png"
+                            src="images/hour-operation.png"
                             alt="hour-operation"
                           ></img>
                           <span className="ml-2">Hours of operations</span>
@@ -144,7 +144,7 @@ const About = () => {
                       <div className="d-full-width">
                         <h6 className="float-left card-title">
                           <img
-                            src="/images/social-link.png"
+                            src="images/social-link.png"
                             alt="social-link"
                           ></img>
                           <span className="ml-2">Social media link</span>
@@ -205,7 +205,7 @@ const About = () => {
                       <div className="d-full-width">
                         <h6 className="float-left card-title">
                           <img
-                            src="/images/statement.png"
+                            src="images/statement.png"
                             alt="statement"
                           ></img>
                           <span className="ml-2">Statement</span>
@@ -258,7 +258,7 @@ const About = () => {
                     <div className="card-body">
                       <div className="d-full-width">
                         <h6 className="float-left card-title">
-                          <img src="/images/contact.png" alt="contact"></img>
+                          <img src="images/contact.png" alt="contact"></img>
                           <span className="ml-2">Sales team</span>
                         </h6>
                         <div className="float-right edit-icon">
@@ -294,7 +294,7 @@ const About = () => {
                     <div className="card-body">
                       <div className="d-full-width">
                         <h6 className="float-left card-title">
-                          <img src="/images/contact.png" alt="contact"></img>
+                          <img src="images/contact.png" alt="contact"></img>
                           <span className="ml-2">Marketing team</span>
                         </h6>
                         <div className="float-right edit-icon">
