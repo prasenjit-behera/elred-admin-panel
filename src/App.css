@@ -300,3 +300,6 @@ button.need-help{
     color: #888f95;
     font-size: 15px;
   }
+  button.btn.btn-danger.btn-block {
+    background-color: #be212a;
+  }

@@ -250,7 +250,7 @@ const About = () => {
          
         <Modal.Body>
           <div>
-          <h5><ArrowBackRoundedIcon/> <strong>Contacts</strong></h5>
+          <h5><ArrowBackRoundedIcon  onClick={handleClose}/> <strong>Contacts</strong></h5>
           <p className="modal-caption">Please provide the company email & contacts</p>
           </div>
           
