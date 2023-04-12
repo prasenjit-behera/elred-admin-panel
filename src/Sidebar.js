@@ -22,7 +22,7 @@ const Sidebar = () => {
                 <li className="nav-item mb-2 active"><a className="nav-link text-secondary" href="#"><FeedbackIcon style={{ color: "#be212a" }}/> <span className="ml-3">About Us</span></a></li>
                 <li className="nav-item mb-2"><a className="nav-link text-secondary" href="#"><PaymentsIcon/><span className="ml-3">Payment Info</span></a></li>
                 <li className='need-help-section text-center mt-5'>
-                    <img src="/images/help.png" alt="help"></img>
+                    <img src="images/help.png" alt="help"></img>
                 <h6>Need Help?</h6>
                 <p>Our support team is at your disposal</p>
                 <button className='need-help' type="button">Get help</button>
