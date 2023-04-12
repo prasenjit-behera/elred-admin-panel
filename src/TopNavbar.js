@@ -12,7 +12,7 @@ export const TopNavbar = () => {
       <Navbar bg="white" expand="lg">
         <Container fluid={true} className="ml-4 mr-4">
           <Navbar.Brand className="ml-2 mr-2" href="#home">
-            <img src="/images/company-logo.png" alt="company logo"></img>
+            <img src="images/company-logo.png" alt="company logo"></img>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
