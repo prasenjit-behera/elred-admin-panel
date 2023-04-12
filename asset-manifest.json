@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elred-admin-panel/static/css/main.839444ee.css",
+    "main.js": "/elred-admin-panel/static/js/main.1fac7f41.js",
+    "static/js/787.e179c55b.chunk.js": "/elred-admin-panel/static/js/787.e179c55b.chunk.js",
+    "index.html": "/elred-admin-panel/index.html",
+    "main.839444ee.css.map": "/elred-admin-panel/static/css/main.839444ee.css.map",
+    "main.1fac7f41.js.map": "/elred-admin-panel/static/js/main.1fac7f41.js.map",
+    "787.e179c55b.chunk.js.map": "/elred-admin-panel/static/js/787.e179c55b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.839444ee.css",
+    "static/js/main.1fac7f41.js"
+  ]
+}
