@@ -42,7 +42,7 @@ export const TopNavbar = () => {
                   <div className="topbar-img">
                     <img
                       className="thumbnail-image mr-1"
-                      src="/images/profile.png"
+                      src="images/profile.png"
                       alt="user pic"
                     />
                     User Admin
